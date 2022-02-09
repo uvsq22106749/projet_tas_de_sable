@@ -2,5 +2,5 @@
 # Akram AMRAOUI
 # Vlad CIRNEANU
 # Paul ROUILLIER
-# Hajar ZAAZOUA ggg
+# Hajar ZAAZOUA ggPPP
 # https://github.com/uvsq22106749/projet_tas_de_sable
