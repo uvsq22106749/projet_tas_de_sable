@@ -3,4 +3,4 @@
 # Vlad CIRNEANU
 # Paul ROUILLIER
 # Hajar ZAAZOUA
-# https://github.com/uvsq-info/l1-python
+# https://github.com/uvsq22106749/projet_tas_de_sable
