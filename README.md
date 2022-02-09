@@ -1,4 +1,4 @@
-# groupe MPCI 1
+# groupe MIASHS 1
 # Akram AMRAOUI
 # Vlad CIRNEANU
 # Paul ROUILLIER
